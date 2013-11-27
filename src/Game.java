@@ -6,7 +6,7 @@ public class Game {
 	public static void main(String[] args) {
 		try {
 			Display.setDisplayMode(new DisplayMode(640, 480));
-			Display.setTitle("PixelDungeon");
+			Display.setTitle("Pixel-Dungeon V.0.1sdadsaads");
 			Display.create();
 		} catch (LWJGLException e) {
 			e.printStackTrace();
